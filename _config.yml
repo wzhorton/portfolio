@@ -103,7 +103,7 @@ author:
   name             : #"W. Zachary Horton"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Current BYU M.S. Statistics student applying to Ph.D. programs"
-  location         : "BYU"
+  location         : #"BYU"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
