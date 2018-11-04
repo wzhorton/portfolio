@@ -1,10 +1,8 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Data Projects"
+title: "Projects"
 author_profile: true
-header:
-  overlay_image: "/images/background.jpg"
 ---
 
 {% include base_path %}
