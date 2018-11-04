@@ -1,5 +1,5 @@
 ---
- title: "Resume"
+ title: "Resume (Last Updated: Nov 2018)"
  permalink: /resume/
 ---
 
