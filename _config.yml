@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob Merrell"
+title                    : "W. Zachary Horton"
 title_separator          : "-"
-name                     : "Jacob Merrell"
-description              : "Data Science"
+name                     : "W. Zachary Horton"
+description              : "Description Placeholder"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
