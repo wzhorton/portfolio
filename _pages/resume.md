@@ -3,7 +3,7 @@
  permalink: /resume/
 ---
 
-Trouble viewing? Click [here]{https://wzhorton.github.io/portfolio/oldresume.pdf}
+Trouble viewing? Click [here](https://wzhorton.github.io/portfolio/oldresume.pdf)
 
 (Last Updated: Nov 2018)
 
